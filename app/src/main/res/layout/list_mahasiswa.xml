@@ -52,8 +52,10 @@
             app1:cardCornerRadius="5dp"
             app1:cardElevation="3dp">
             <TextView
-                android:layout_width="50"
-                android:layout_height=""
+                android:layout_width="50dp"
+                android:layout_height="50dp"
+                android:background="#0000ff"
+                tex
         </androidx.cardview.widget.CardView>
     </LinearLayout>
 
