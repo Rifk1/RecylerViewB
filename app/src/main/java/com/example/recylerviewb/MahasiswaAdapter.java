@@ -27,7 +27,7 @@ public class MahasiswaAdapter extends RecyclerView.Adapter<MahasiswaViewHolder> 
     @Override
     public void onBindViewHolder(@NonNull MahasiswaViewHolder holder, int position) {
         MahasiswaModel mm = _mahasiswaModelList.get(position);
-        
+
         holder._jkImageView.setImageResource(R.drawable.boy);
 
         if (mm.getJenisKelamin().toLowerCase().equals("perempuan"))
