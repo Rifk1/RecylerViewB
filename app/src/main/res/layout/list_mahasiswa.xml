@@ -55,7 +55,12 @@
                 android:layout_width="50dp"
                 android:layout_height="50dp"
                 android:background="#0000ff"
-                tex
+                android:text="TI"
+                android:gravity="center"
+                android:textColor="#ffffff"
+                android:textSize="25sp"
+                android:textStyle="bold"
+                android:id="@+id/jpTextView"/>
         </androidx.cardview.widget.CardView>
     </LinearLayout>
 
