@@ -45,6 +45,11 @@ public class MainActivity extends AppCompatActivity {
                 Toast.makeText(getApplicationContext(), error.getMessage(), Toast.LENGTH_LONG).show();
             }
         });
-        
+        iniAddButton();
+        private void initAddButton(){
+            _addButton = findViewById(R.id.addButton);
+
+            _addButton
+        }
     }
 }
