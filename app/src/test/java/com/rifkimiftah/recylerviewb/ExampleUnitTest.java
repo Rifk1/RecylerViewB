@@ -1,4 +1,4 @@
-package com.example.recylerviewb;
+package com.rifkimiftah.recylerviewb;
 
 import org.junit.Test;
 

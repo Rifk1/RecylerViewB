@@ -1,4 +1,4 @@
-package com.example.recylerviewb;
+package com.rifkimiftah.recylerviewb;
 
 import android.view.LayoutInflater;
 import android.view.View;

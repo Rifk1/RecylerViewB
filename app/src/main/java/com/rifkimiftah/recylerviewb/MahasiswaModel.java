@@ -1,7 +1,4 @@
-package com.example.recylerviewb;
-
-import androidx.annotation.NonNull;
-import androidx.annotation.Nullable;
+package com.rifkimiftah.recylerviewb;
 
 public class MahasiswaModel {
     private String Nim, Nama, JenisKelamin, JP;

@@ -1,4 +1,4 @@
-package com.example.recylerviewb;
+package com.rifkimiftah.recylerviewb;
 
 import android.view.View;
 import android.widget.ImageView;
@@ -19,7 +19,7 @@ public class MahasiswaViewHolder extends RecyclerView.ViewHolder {
         _jkImageView = (ImageView) itemView.findViewById(R.id.jkImageView);
         _jkTextView = (TextView) itemView.findViewById(R.id.jkTextView);
         _jpTextView = (TextView) itemView.findViewById(R.id.jpTextView);
-        _namaTextView = (TextView) itemView.findViewById(R.id.namaTextview);
+        _namaTextView = (TextView) itemView.findViewById(R.id.namaTextView);
         _nimTextView = (TextView) itemView.findViewById(R.id.nimTextView);
 
     }
